@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install SYSTEM "http://www.joomla.org/xml/dtd/1.5/plugin-install.dtd">
+<install version="1.5" type="plugin" group="search">
+    <name>Search - Foobar</name>
+    <author>Packt Publishing</author>
+    <creationDate>April 2009</creationDate>
+    <copyright>Copyright (C) 2009 Packt Publishing. All rights reserved.</copyright>
+    <license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+    <authorEmail>author@example.org</authorEmail>
+    <authorUrl>http://www.example.org</authorUrl>
+    <version>1.0</version>
+    <description>ENABLES SEARCHING OF FOOBARS</description>
+    <files>
+        <filename plugin="foobar">foobar.php</filename>
+    </files>
+    <params>
+    </params>
+</install>
